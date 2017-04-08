@@ -6,7 +6,8 @@ Here is an example with [vim-monokai](https://github.com/sickill/vim-monokai).
 ## Installation:
 Copy the ftdetect/odl.vim and syntax/odl.vim files to the respective .vim folders in your home directory.
 ```
-cp -r vim ~/.vim
+cp vim/syntax/odl.vim ~/.vim/syntax/odl.vim
+cp vim/ftdetect/odl.vim ~/.vim/ftdetect/odl.vim
 ```
 
 ## Notes:
